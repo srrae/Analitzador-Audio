@@ -1,8 +1,7 @@
 # Analitzador d'Àudio en Temps Real (ESP32-S3)
 
 **Assignatura:** Processadors Digitals  
-**Institució:** UPC ESEIAAT (Terrassa)  
-**Autors:** Joel Serrano & Ana Jimenez  
+**Autors:** Joel Serrano, Ana Jimenez  
 
 ---
 
